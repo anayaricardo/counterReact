@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(32, 32, 32);
+  background-image: url("./img/doodle2.png");
+  background-repeat: repeat;
+  height: 200px;
+  background-origin: content-box padding-box;
+  background-position: 50% 50%;
+  background-size: cover;
+}

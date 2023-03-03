@@ -1,0 +1,64 @@
+.titulo {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.subtitulo {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva;
+}
+
+.contador {
+  text-align: center;
+  background-color: #075e54ee;
+  margin: auto;
+  border: 0px solid #25d366;
+  color: #ece5dd;
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  margin-top: 80px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  box-shadow: 8px 5px 5px 2px rgb(24, 24, 24);
+  text-shadow: 2px 2px 5px black;
+}
+
+.numero {
+  font-size: 3.5em;
+  font-weight: bold;
+}
+
+.boton {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border: 2px solid #075e54;
+  border-radius: 20px;
+  padding: 10px 30px;
+  margin: 10px;
+  background-color: #128c7ec1;
+  font: bold;
+  font-size: 1em;
+  /* color: #dcf8c6; */
+  color: #ece5dd;
+  font-weight: bold;
+}
+
+p {
+  margin: 25px;
+}
+
+.boton:hover {
+  box-shadow: 2px 2px 8px 1px rgb(24, 24, 24);
+  background-color: #25d365;
+  /* color: #ece5dd; */
+  color: #075e54;
+}
