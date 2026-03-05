@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anayaricardo/counterReact/static/css/main.135276f3.css",
+    "main.js": "/anayaricardo/counterReact/static/js/main.24a0a780.js",
+    "static/media/doodle2.png": "/anayaricardo/counterReact/static/media/doodle2.ccde4e8a554e71a776fe.png",
+    "index.html": "/anayaricardo/counterReact/index.html",
+    "main.135276f3.css.map": "/anayaricardo/counterReact/static/css/main.135276f3.css.map",
+    "main.24a0a780.js.map": "/anayaricardo/counterReact/static/js/main.24a0a780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135276f3.css",
+    "static/js/main.24a0a780.js"
+  ]
+}
