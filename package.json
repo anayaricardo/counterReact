@@ -2,7 +2,7 @@
   "name": "repasoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anayaricardo/counterReact",
+  "homepage": "https://anayaricardo.github.io/counterReact/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
