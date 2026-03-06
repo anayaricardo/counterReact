@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import { Contador } from "./Components/Contador/Contador";
+import { Nav } from "./Components/Nav/Nav";
 
 function App() {
   const [contador, setContador] = useState(0);
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <div className="App">
+      <Nav />
       <Contador
         nombre="Proyecto de estados con React"
         contador={contador}
